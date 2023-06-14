@@ -24,3 +24,8 @@ button{
     border-radius: 20px;
 
 }
+
+#error{
+    color: red;
+    font-weight: 200;
+}
